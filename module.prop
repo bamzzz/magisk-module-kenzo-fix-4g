@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=kenzo_fix_4g
+name=Kenzo Fix 4G
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=bamzzz
+description=Modifying ro.product.device on Redmi Note 3 Pro (Kenzo) for enabling 4G/LTE. Visit https://www.bootloop.id for more info.
 minMagisk=17000
